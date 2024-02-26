@@ -1,21 +1,22 @@
-//
-//  ContentView.swift
-//  player-client
-//
-//  Created by TSB M3DIA on 26/02/2024.
-//
-
 import SwiftUI
+import dmg_player_ios_sdk
 
 struct ContentView: View {
+    let sdk = TrackPlayerSDK()
+    @State private var showWebView = false
+    
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Button("Play Video") {
+                sdk.playNow(isrc: "CA5KR2269973")
+                showWebView = true
+            }
+            
+            if showWebView {
+                WebView(sdk: sdk)
+                    .frame(height: 300) // Set the frame height for the web view
+            }
         }
-        .padding()
     }
 }
 

@@ -14,6 +14,7 @@
 		17DCD4102B8CAF38000837F3 /* player_clientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17DCD40F2B8CAF38000837F3 /* player_clientTests.swift */; };
 		17DCD41A2B8CAF38000837F3 /* player_clientUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17DCD4192B8CAF38000837F3 /* player_clientUITests.swift */; };
 		17DCD41C2B8CAF38000837F3 /* player_clientUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17DCD41B2B8CAF38000837F3 /* player_clientUITestsLaunchTests.swift */; };
+		17DCD42A2B8CAF64000837F3 /* dmg-player-ios-sdk in Frameworks */ = {isa = PBXBuildFile; productRef = 17DCD4292B8CAF64000837F3 /* dmg-player-ios-sdk */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17DCD42A2B8CAF64000837F3 /* dmg-player-ios-sdk in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,6 +147,9 @@
 			dependencies = (
 			);
 			name = "player-client";
+			packageProductDependencies = (
+				17DCD4292B8CAF64000837F3 /* dmg-player-ios-sdk */,
+			);
 			productName = "player-client";
 			productReference = 17DCD3FA2B8CAF36000837F3 /* player-client.app */;
 			productType = "com.apple.product-type.application";
@@ -217,6 +222,9 @@
 				Base,
 			);
 			mainGroup = 17DCD3F12B8CAF36000837F3;
+			packageReferences = (
+				17DCD4282B8CAF64000837F3 /* XCRemoteSwiftPackageReference "dmg-player-ios-sdk" */,
+			);
 			productRefGroup = 17DCD3FB2B8CAF36000837F3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -612,6 +620,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		17DCD4282B8CAF64000837F3 /* XCRemoteSwiftPackageReference "dmg-player-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/JUKERSTONE/dmg-player-ios-sdk";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		17DCD4292B8CAF64000837F3 /* dmg-player-ios-sdk */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 17DCD4282B8CAF64000837F3 /* XCRemoteSwiftPackageReference "dmg-player-ios-sdk" */;
+			productName = "dmg-player-ios-sdk";
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 17DCD3F22B8CAF36000837F3 /* Project object */;
 }
