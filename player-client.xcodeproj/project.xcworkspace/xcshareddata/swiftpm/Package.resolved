@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dmg-player-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JUKERSTONE/dmg-player-ios-sdk",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6e6bacc68b49b45919c20ac6896010dc066a553e"
+      }
+    }
+  ],
+  "version" : 2
+}
