@@ -1,0 +1,37 @@
+Target dependency graph (20 targets)
+dmg-player-ios-sdk in dmg-player-ios-sdk, no dependencies
+dmg-player-ios-sdk in dmg-player-ios-sdk, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-client in player-client, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+dmg-player-ios-sdk in dmg-player-ios-sdk, no dependencies
+dmg-player-ios-sdk in dmg-player-ios-sdk, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-client in player-client, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+dmg-player-ios-sdk in dmg-player-ios-sdk, no dependencies
+dmg-player-ios-sdk in dmg-player-ios-sdk, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-client in player-client, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+dmg-player-ios-sdk in dmg-player-ios-sdk, no dependencies
+dmg-player-ios-sdk in dmg-player-ios-sdk, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-client in player-client, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-clientTests in player-client, depends on:
+player-client in player-client (explicit)
+player-clientTests in player-client, depends on:
+player-client in player-client (explicit)
+player-clientTests in player-client, depends on:
+player-client in player-client (explicit)
+player-clientTests in player-client, depends on:
+player-client in player-client (explicit)
+player-clientUITests in player-client, depends on:
+player-client in player-client (explicit)
+player-clientUITests in player-client, depends on:
+player-client in player-client (explicit)
+player-clientUITests in player-client, depends on:
+player-client in player-client (explicit)
+player-clientUITests in player-client, depends on:
+player-client in player-client (explicit)

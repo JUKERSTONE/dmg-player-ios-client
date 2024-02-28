@@ -1,0 +1,4 @@
+module dmg_player_ios_sdk {
+header "dmg-player-ios-sdk-Swift.h"
+export *
+}

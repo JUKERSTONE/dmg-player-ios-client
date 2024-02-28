@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AC9D87EEC3360DE308C931E6978C21DD325AA050",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AC9D87EEC3360DE308C931E6978C21DD325AA050" : 0,
+    "E04C89A877942C3751072B78D3C0D371F505DB0D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "05CA14F7-6B4F-493B-9CF3-FDB62FAA4304",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AC9D87EEC3360DE308C931E6978C21DD325AA050" : "dmg-player-ios-client\/",
+    "E04C89A877942C3751072B78D3C0D371F505DB0D" : "dmg-player-ios-client\/DerivedData\/player-client\/SourcePackages\/checkouts\/dmg-player-ios-sdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "player-client",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "player-client.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:JUKERSTONE\/dmg-player-ios-client.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC9D87EEC3360DE308C931E6978C21DD325AA050"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/quickcommerce\/Documents\/dmg\/dmg-player-ios-client\/DerivedData\/player-client\/SourcePackages\/repositories\/dmg-player-ios-sdk-99d50ef1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E04C89A877942C3751072B78D3C0D371F505DB0D"
+    }
+  ]
+}

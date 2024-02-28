@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "44e2093957000bab201fff2815cf353420a1edca8485b7914d6fba656becb11c"
+build_start_time: [1709064442, 404950000]
+build_end_time: [1709064442, 450351000]
+inputs:
+  "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/player-client/ContentView.swift": !private [1709060990, 698962392]
+  "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/player-client/player_clientApp.swift": !private [1709060990, 699553273]

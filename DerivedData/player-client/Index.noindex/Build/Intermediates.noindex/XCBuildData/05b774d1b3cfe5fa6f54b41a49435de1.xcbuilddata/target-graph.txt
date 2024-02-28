@@ -1,0 +1,21 @@
+Target dependency graph (12 targets)
+dmg-player-ios-sdk in dmg-player-ios-sdk, no dependencies
+dmg-player-ios-sdk in dmg-player-ios-sdk, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-client in player-client, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+dmg-player-ios-sdk in dmg-player-ios-sdk, no dependencies
+dmg-player-ios-sdk in dmg-player-ios-sdk, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-client in player-client, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+dmg-player-ios-sdk in dmg-player-ios-sdk, no dependencies
+dmg-player-ios-sdk in dmg-player-ios-sdk, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-client in player-client, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+dmg-player-ios-sdk in dmg-player-ios-sdk, no dependencies
+dmg-player-ios-sdk in dmg-player-ios-sdk, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)
+player-client in player-client, depends on:
+dmg-player-ios-sdk in dmg-player-ios-sdk (explicit)

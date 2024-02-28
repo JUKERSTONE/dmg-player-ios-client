@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "dmg-player-ios-sdk",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/JUKERSTONE/dmg-player-ios-sdk",
+          "name" : "dmg-player-ios-sdk"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "158fa2939c2af3b69af31b52f7e51f840d346a3f"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "dmg-player-ios-sdk"
+      }
+    ]
+  },
+  "version" : 6
+}

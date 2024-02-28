@@ -1,0 +1,24 @@
+{
+  "source": "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/player-client/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Now Playing:"
+      },
+      {
+        "comment": "",
+        "key": "Play"
+      },
+      {
+        "comment": "",
+        "key": "Queue"
+      },
+      {
+        "comment": "",
+        "key": "Print Queue"
+      }
+    ]
+  },
+  "version": 1
+}

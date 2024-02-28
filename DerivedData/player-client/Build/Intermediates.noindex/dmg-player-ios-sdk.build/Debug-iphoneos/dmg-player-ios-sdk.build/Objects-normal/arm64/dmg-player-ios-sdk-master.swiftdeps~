@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "3afac29af3b5a41032a931a398fb09324f6ff223ef95ddcecdc180a08d4110ff"
+build_start_time: [1709064441, 817225000]
+build_end_time: [1709064441, 868782000]
+inputs:
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/APIService.swift"
+  : !private [1709064435, 883873427]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/Player/DMGPlayer.swift"
+  : !private [1709064435, 884261739]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/Player/PlayerWKNavigation.swift"
+  : !private [1709064435, 884661477]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/TRX.swift"
+  : !private [1709064435, 884891232]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/WebViewWrapper.swift"
+  : !private [1709064435, 885216055]

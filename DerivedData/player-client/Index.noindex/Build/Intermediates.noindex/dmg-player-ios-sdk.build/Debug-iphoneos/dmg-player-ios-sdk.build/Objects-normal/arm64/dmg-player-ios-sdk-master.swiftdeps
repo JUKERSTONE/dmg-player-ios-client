@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "11a01b19e23ed92f865722b212875a5e3e1848907cd19afa34448b653376893d"
+build_start_time: [1709103935, 45662000]
+build_end_time: [1709103935, 340181000]
+inputs:
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/API.swift"
+  : [1709103690, 279518975]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/DMGPictureInPicture.swift"
+  : [1709103690, 279878979]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/DMGPlayerSDK/Module.swift"
+  : [1709103690, 280331539]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/DMGPlayerSDK/Player.swift"
+  : [1709103690, 280734916]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/DMGPlayerSDK/WKMessage.swift"
+  : [1709103690, 281140521]
+  ? "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/SourcePackages/checkouts/dmg-player-ios-sdk/Sources/dmg-player-ios-sdk/DMGPlayerSDK/WKNavigation.swift"
+  : [1709103690, 281585143]

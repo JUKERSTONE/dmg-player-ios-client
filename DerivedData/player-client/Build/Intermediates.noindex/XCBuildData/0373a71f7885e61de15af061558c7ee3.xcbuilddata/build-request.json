@@ -1,0 +1,64 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a9028d56fa1c69071bea15668f08dd67d3ee828ac79e4d56b8c4055b1ef029a1"
+    }
+  ],
+  "containerPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/player-client.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Build/Products",
+      "derivedDataPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone12,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008030-0012694C0107802E",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "16.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a9028d56fa1c69071bea15668f08dd67d3ee828ac79e4d56b8c4055b1ef029a1"
+    },
+    {
+      "guid" : "a9028d56fa1c69071bea15668f08dd670c37be970e19dc7b6225aa9b07d41040"
+    },
+    {
+      "guid" : "a9028d56fa1c69071bea15668f08dd6779b6fd3f017f2f44be8c222cb0ad368f"
+    }
+  ],
+  "containerPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/player-client.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Build/Products",
+      "pchPath" : "/Users/quickcommerce/Documents/dmg/dmg-player-ios-client/DerivedData/player-client/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
