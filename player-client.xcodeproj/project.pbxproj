@@ -35,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		17DA8E062BC1CA8D0045DF1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		17DCD3FA2B8CAF36000837F3 /* player-client.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "player-client.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		17DCD3FD2B8CAF36000837F3 /* player_clientApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = player_clientApp.swift; sourceTree = "<group>"; };
 		17DCD3FF2B8CAF36000837F3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 		17DCD3FC2B8CAF36000837F3 /* player-client */ = {
 			isa = PBXGroup;
 			children = (
+				17DA8E062BC1CA8D0045DF1D /* Info.plist */,
 				17DCD3FD2B8CAF36000837F3 /* player_clientApp.swift */,
 				17DCD3FF2B8CAF36000837F3 /* ContentView.swift */,
 				17DCD4012B8CAF38000837F3 /* Assets.xcassets */,
@@ -427,6 +429,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "player-client/Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -465,6 +468,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "player-client/Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
